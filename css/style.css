@@ -1,5 +1,5 @@
 body {
-  background-color: linen;
+  background-color: rgba(50,50,50,1);
 }
 
 h1 {
@@ -24,32 +24,32 @@ p {
 }
 
 #headerbox {
+  background-color: lightgray;
   margin: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  background-color: lightgray;
   padding: 20px;
   width: 80%;
   height: 400px;
 }
 
 .box {
+  background-color: lightgray;
   margin: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  background-color: lightgray;
   padding: 20px;
   width: 80%;
 }
 
 .smallbox {
+  background-color: lightgray;
   margin: 10px;
   text-align: center;
-  background-color: lightgray;
   padding: 20px;
   width: 80%;
 }
