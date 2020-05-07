@@ -1,0 +1,32 @@
+body {
+  background-color: linen;
+  width: 100%;
+}
+
+h1 {
+  color: teal;
+}
+
+p {
+  color: teal;
+}
+
+.control {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.bigbox {
+  display: block;
+  width: 100%;
+}
+
+.box {
+  margin: 10px;
+  display: block;
+  text-align: center;
+  background-color: lightgray;
+  padding: 20px;
+  width: 80%;
+}
