@@ -1,6 +1,5 @@
 body {
   background-color: linen;
-  width: 100%;
 }
 
 h1 {
@@ -11,11 +10,11 @@ p {
   color: teal;
 }
 
-.control {
+/* .control {
   display: flex;
   justify-content: center;
   width: 100%;
-}
+} */
 
 .bigbox {
   display: block;
@@ -25,6 +24,8 @@ p {
 .box {
   margin: 10px;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
   background-color: lightgray;
   padding: 20px;
