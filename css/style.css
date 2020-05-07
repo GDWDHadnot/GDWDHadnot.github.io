@@ -10,15 +10,29 @@ p {
   color: teal;
 }
 
-/* .control {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-} */
-
 .bigbox {
   display: block;
   width: 100%;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  width: 83.5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#headerbox {
+  margin: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: lightgray;
+  padding: 20px;
+  width: 80%;
+  height: 400px;
 }
 
 .box {
@@ -26,6 +40,14 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
+  background-color: lightgray;
+  padding: 20px;
+  width: 80%;
+}
+
+.smallbox {
+  margin: 10px;
   text-align: center;
   background-color: lightgray;
   padding: 20px;
